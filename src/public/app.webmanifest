@@ -1,0 +1,43 @@
+{
+  "id": "foodiest",
+  "start_url": "./index.html?launcher=true",
+  "name": "Foodiest",
+  "short_name": "Foodiest",
+  "description": "Deserve The Best!",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#27ae60",
+  "icons": [
+    {
+      "src": "images/icons/icon180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/icon192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/icon32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icons/icon16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any"
+    }
+    
+  ]
+}
